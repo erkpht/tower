@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["builder","Builder types to compose layers and services"]],"trait":[["Service","An asynchronous function from a `Request` to a `Response`."]]});
