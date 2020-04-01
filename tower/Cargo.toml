@@ -1,5 +1,5 @@
 [package]
-name = "tower"
+name = "erkpht-tower"
 # When releasing to crates.io:
 # - Remove path dependencies
 # - Update html_root_url.
